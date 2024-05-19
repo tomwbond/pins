@@ -1,6 +1,6 @@
 title: Tom's Travel Pins
 logo: assets/florence-1.jpg
-description: Places I pinned on Google Maps
+# description: Places I pinned on Google Maps
 google_analytics:
 theme: jekyll-theme-minimal
-site_favicon: assets/tomstravelpins.ico
+favicon: assets/tomstravelpins.ico
