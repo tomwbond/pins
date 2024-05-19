@@ -9,10 +9,14 @@ One of the city’s top attractions, the Castle is absolutely worth a visit. The
 ### <a href="https://www.google.co.uk/maps/place/Edinburgh+Zoo/@55.9423613,-3.2788932,15z/data=!4m6!3m5!1s0x4887c661482ca367:0xdab93fa996cd02cb!8m2!3d55.9423619!4d-3.2685938!16zL20vMDcxNG5x?entry=ttu" target="_blank">Edinburgh Zoo</a>
 
 A large and interesting zoo that’s a great place to spend a few hours. Buses from the city centre take about 20 minutes and stop outside. On a drizzly day in November, plenty of animals were in their hides and enclosures closed for renovation. But it was still great, and nice to support all the zoo’s great conservation work. In November 23 entry was £25 and 2-3 hours was enough (but on a better day you could spend longer).
-- Royal Botanic Garden: A large, beautiful park on the northern edge of the New Town, the Botanic Garden is a really good visit. There’s an excellent visitor centre and cafe (and the shop was the nice we saw). There’s lots of paths, history and conservation work going on, as well as relevant art to see. It’s free to enter and might take 1-3 hours, depending on how much you want to see.
 
-- [National Museum of Scotland](https://www.google.co.uk/maps/place/National+Museum+of+Scotland/@55.9479034,-3.192343,16z/data=!3m1!5s0x4887c784db00984f:0xbcf28f76719eeb7d!4m6!3m5!1s0x4887c784d1bae421:0x88cc2703f2beb5c3!8m2!3d55.9469995!4d-3.1905666!16zL20vMDRmZnMx?entry=ttu)
-    - Large, varied and excellent museum. There’s a really impressive set of floors covering Scottish history from its geological foundations to the present day – moving through eras as you move upwards. Other areas include: the natural world, world cultures, art, design and fashion, and science and technology. It’s free to enter. Highly recommended.
+### <a href="https://www.google.co.uk/maps/place/Royal+Botanic+Garden+Edinburgh/@55.9568377,-3.2208141,14z/data=!4m6!3m5!1s0x4887c7c1de08e6eb:0x6305a87387d5746e!8m2!3d55.9650125!4d-3.2091021!16zL20vMDQ2ZHEx?entry=ttu" target="_blank">Royal Botanic Garden</a>
+
+A large, beautiful park on the northern edge of the New Town, the Botanic Garden is a really good visit. There’s an excellent visitor centre and cafe (and the shop was the nice we saw). There’s lots of paths, history and conservation work going on, as well as relevant art to see. It’s free to enter and might take 1-3 hours, depending on how much you want to see.
+
+### <a href="https://www.google.co.uk/maps/place/National+Museum+of+Scotland/@55.9479034,-3.192343,16z/data=!3m1!5s0x4887c784db00984f:0xbcf28f76719eeb7d!4m6!3m5!1s0x4887c784d1bae421:0x88cc2703f2beb5c3!8m2!3d55.9469995!4d-3.1905666!16zL20vMDRmZnMx?entry=ttu" target="_blank">National Museum of Scotland</a>
+
+Large, varied and excellent museum. There’s a really impressive set of floors covering Scottish history from its geological foundations to the present day – moving through eras as you move upwards. Other areas include: the natural world, world cultures, art, design and fashion, and science and technology. It’s free to enter. Highly recommended.
 - The Real Mary King’s Close
     - On the Royal Mile near the Castle, this is a great interactive tour exploring rooms and streets that were built over. It’s taken by guides who are ‘in character’ and vividly brings living in the Old Town to life. It takes about an hour and cost £21.
 - Calton Hill
