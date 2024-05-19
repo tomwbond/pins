@@ -7,6 +7,7 @@ When travelling, I mark interesting-looking places as ‘Want to go’ on Google
 ### UK
 
 - [Edinburgh](edinburgh.md)
+- [Edinburgh](edinburgh.md)
 
 ### Italy
 
