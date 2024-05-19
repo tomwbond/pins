@@ -1,5 +1,6 @@
 title: Tom's Travel Pins
-logo: assets/tomstravelpins.png
+logo: assets/flornece-1.png
 description: Testing out description. Added to left column?
 google_analytics:
 theme: jekyll-theme-minimal
+site_favicon: favicon.ico

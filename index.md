@@ -16,7 +16,7 @@ When travelling, I mark interesting-looking places as ‘Want to go’ on Google
 - General info
 - Istanbul: things to see, eat and drink
 - Istanbul: working, sleeping, and getting around
-- Izmir
+- [Izmir](izmir.md)
 
 trying out **paragraphs**, apparently they need to be separated using two blank spaces and a return. controversial though because of the strange people who add two spaces after paragraphs.  
 here we go. so here's testing moving to a new line without two spaces so
