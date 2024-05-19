@@ -1,6 +1,4 @@
-# Welcome
-
-## The places I pinned on Google Maps
+# Places I pinned on Google Maps
 
 When travelling, I mark interesting-looking places as ‘Want to go’ on Google Maps. Then, once I’ve been, I either mark them as a ‘Favourite’ or unmark them. On this site, I list the places I’d recommend to a friend with a quick description and a link to their Maps page.
 
