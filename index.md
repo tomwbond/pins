@@ -1,6 +1,8 @@
 # Hello!
 
-When planning trips, I mark interesting-looking places as ‘Want to go’ on Google Maps. Then, once I’ve been, I either mark them as a ‘Favourite’ or unmark them. Here, I list the places that make the cut, with a quick description and a Maps link.
+When planning trips, I mark interesting-looking places as ‘Want to go’ on Google Maps. Then, once I’ve been, I either mark them as a ‘Favourite’ or unmark them. 
+
+Here, I list the places that make the cut, with a quick description and a Maps link. I hope you find it useful!
 
 ## Italy
 
