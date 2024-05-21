@@ -77,13 +77,3 @@ Down the hill from the Castle, this is a large, modern taproom serving good food
 ### <a href="https://www.google.co.uk/maps/place/The+Caley+Picture+House+-+JD+Wetherspoon/@55.9467799,-3.2062446,17z/data=!3m1!5s0x4887c79875cfcfb1:0x4906aed403d9d9c9!4m6!3m5!1s0x4887c79875ff5fdd:0x626a4692467f26a1!8m2!3d55.9482418!4d-3.2061343!16s%2Fm%2F0tkk0mb?entry=ttu" target="_blank">The Caley Picture House</a>
 
 This is a Wetherspoons! Edinburgh has a couple of really interesting Spoons restaurants, and this is one of them. Serving the same (for my non-UK friends: cheap but not great) food and drink as all the others, this one used to be a cinema and might be the coolest Spoons I’ve visited.
-
-## Shops
-
-### <a href="https://www.google.co.uk/maps/place/Wonderland+Models/@55.9462568,-3.2080038,17z/data=!4m6!3m5!1s0x4887c7989a0a895b:0xa2f638d7d7b48e6a!8m2!3d55.9462561!4d-3.2054345!16s%2Fg%2F1tdcfysw?entry=ttu" target="_blank">Wonderland Models</a>
-
-Absolutely my kind of place, this is a large and varied model shop packed with interesting toys! There’s a huge range model kits and just fun to look around (if you’re like me, that is).
-
-### <a href="https://www.google.co.uk/maps/place/The+Nutcracker+Christmas+Shop/@55.9502803,-3.1859049,17z/data=!4m6!3m5!1s0x4887c7854ff703fd:0xe61f17ff84ebc604!8m2!3d55.9502803!4d-3.1859049!16s%2Fg%2F1tdl5p_l?entry=ttu" target="_blank">The Nutcracker Christmas Shop</a>
-
-A charming, warm and friendly little place on the Royal Mile, this is a great shop if you’re in the market for some Christmas-themed souvenirs.

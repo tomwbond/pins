@@ -1,12 +1,6 @@
-# The Places I Pinned
+# Hello!
 
-When travelling, I mark interesting-looking places as ‘Want to go’ on Google Maps. Then, once I’ve been, I either mark them as a ‘Favourite’ or unmark them. On this site, I list the places I’d recommend with a quick description and a link to their Maps page.
-
-Testing.
-
-## UK
-
-- [Edinburgh](edinburgh.md)
+When planning trips, I mark interesting-looking places as ‘Want to go’ on Google Maps. Then, once I’ve been, I either mark them as a ‘Favourite’ or unmark them. Here, I list the places that make the cut, with a quick description and a Maps link.
 
 ## Italy
 
@@ -17,8 +11,12 @@ Testing.
 
 - [General info](turkey.md)
 - Istanbul: things to see, eat and drink
-- Istanbul: working, sleeping, and getting around
+- [Istanbul: working, sleeping, and getting around](istanbul1.md)
 - [Izmir](izmir.md)
+
+## UK
+
+- [Edinburgh](edinburgh.md)
 
 <!-- 
 ### My links

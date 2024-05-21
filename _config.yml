@@ -1,6 +1,6 @@
 title: Tom's Travel Pins
 logo: assets/florence-1.jpg
-# description: Places I pinned on Google Maps
+description: Places I Pinned on Google Maps
 google_analytics:
 remote_theme: tomwbond/minimal
 plugins:
