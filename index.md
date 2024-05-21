@@ -25,7 +25,7 @@ I hope you find it useful!
 
 - [General info](turkey.md)
 - [Istanbul: things to see, eat and drink](istanbul1.md)
-- [Istanbul: working, sleeping, and getting around](istanbul1.md)
+- [Istanbul: working, sleeping, and getting around](istanbul2.md)
 - [Izmir](izmir.md)
 
 ## UK
