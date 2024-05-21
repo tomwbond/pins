@@ -17,16 +17,16 @@ I hope you find it useful!
 
 - Kotor and Budva
 
+## Sweden
+
+- Stockholm
+
 ## Turkey
 
 - [General info](turkey.md)
 - Istanbul: things to see, eat and drink
 - [Istanbul: working, sleeping, and getting around](istanbul1.md)
 - [Izmir](izmir.md)
-
-## Sweden
-
-- Stockholm
 
 ## UK
 
