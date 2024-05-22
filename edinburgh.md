@@ -1,5 +1,7 @@
 # Edinburgh
 
+I visited in 2020 and 2023.
+
 ## Things to see and do
 
 ### <a href="https://www.google.co.uk/maps/place/Edinburgh+Castle/@55.9482575,-3.1996799,18z/data=!4m6!3m5!1s0x4887c79a2099c0f7:0x469a1eebe54c0a58!8m2!3d55.9485947!4d-3.1999135!16zL20vMGpwbl8?entry=ttu" target="_blank">Edinburgh Castle</a>

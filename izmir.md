@@ -1,5 +1,7 @@
 # Izmir
 
+I visited in 2023.
+
 ## Places to stay
 
 ### <a href="https://www.google.co.uk/maps/place/Lotus+Garden+Hostel/@38.4206712,27.1424694,17.96z/data=!4m9!3m8!1s0x14bbd8f1f21c5e91:0x1283ad52275e5cf1!5m2!4m1!1i2!8m2!3d38.4204267!4d27.1434439!16s%2Fg%2F11btylp5dt" target="_blank">Lotus Garden Hostel</a>

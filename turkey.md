@@ -1,5 +1,7 @@
 # Turkey
 
+I visited in 2023.
+
 ## Currency
 
 Turkey’s lira (TRY) has experienced a lot of inflation in recent years, which makes prices written by visitors a bit unreliable. Something that cost 100 TRY a couple of years ago might be more than double that now. At the same time, the currency has devalued, so your dollars, pounds, or euros will go further, so for most foreigners, it probably evens out. I include conversion into £ to give you a general idea.

@@ -1,5 +1,7 @@
 # Istanbul: things to see, eat and drink
 
+I visited in 2023.
+
 ## Museum Card
 
 Available in two versions (5 days for Istanbul or 15 days for Turkey), this is *OK* value for money. I didn’t really save anything, but it does allow you to skip the ticket queues at each venue, which might be the more useful benefit if you’re visiting at busy times.
