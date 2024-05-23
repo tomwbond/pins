@@ -6,7 +6,7 @@ I visited in 2020 and 2023.
 
 ### <a href="https://www.google.co.uk/maps/place/Edinburgh+Castle/@55.9482575,-3.1996799,18z/data=!4m6!3m5!1s0x4887c79a2099c0f7:0x469a1eebe54c0a58!8m2!3d55.9485947!4d-3.1999135!16zL20vMGpwbl8?entry=ttu" target="_blank">Edinburgh Castle</a>
 
-One of the city’s top attractions, the Castle is absolutely worth a visit. There’s fascinating history and great views here. The National War Museum is fantastic and there are lots of other small museums to check out. At 1pm, there’s also usually the firing of the cannon to watch. At 1pm, there’s also usually the firing of the cannon – a tradition to help sailors in the Forth know the time. In November 23 tickets were about £20 and it’s easy to spend half a day here.
+One of the city’s top attractions, the Castle is absolutely worth a visit. There’s fascinating history and great views here. The National War Museum is fantastic and there are lots of other small museums to check out. At 1pm, there’s also usually the firing of the cannon – a tradition to help sailors in the Forth know the time. In November 23 tickets were about £20 and it’s easy to spend half a day here.
 
 ### <a href="https://www.google.co.uk/maps/place/Edinburgh+Zoo/@55.9423613,-3.2788932,15z/data=!4m6!3m5!1s0x4887c661482ca367:0xdab93fa996cd02cb!8m2!3d55.9423619!4d-3.2685938!16zL20vMDcxNG5x?entry=ttu" target="_blank">Edinburgh Zoo</a>
 
