@@ -31,8 +31,3 @@ I hope you find it useful!
 ## UK
 
 - [Edinburgh](edinburgh.md)
-
-<!-- 
-### My links
-
-my website is [here](https://tombond.uk). it is hosted here on github pages. -->
