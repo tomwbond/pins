@@ -18,9 +18,9 @@ Selçuk itself is accessible by an easy direct metro train from Izmir.
 
 Another stunning destination for a lover of ancient cities, you arrive at Hierapolis by climbing up the extraordinary Pamukkale, or "Cotton Palace". It looks a bit like snow, but is actually a calcified hillside with a lot of small water pools.
 
-Once at the top, the sprawling spa city of Hierapolis stretches off in all directions. I spent a few good hours exploring it from end to end. There a hot natural springs here so make sure to bring something to swim in. You can pretend to be one of the Romans or Byzantines who visited the place to restore their health!
+Once at the top, the sprawling spa city of Hierapolis stretches off in all directions. I spent a few good hours exploring it from end to end. There are hot natural springs here so make sure to bring something to swim in. You can pretend to be one of the Romans or Byzantines who visited the place to restore their health!
 
-The city has amazing views across the landscape which can enjoy sat down in one of the theatres.
+The city has amazing views across the landscape which you can enjoy sat down in one of the theatres.
 
 To get there, we took a train from Izmir to Denizli, and then a local bus from there to Pamukkale. <a href="https://www.google.co.uk/maps/place/Denizli+%C5%9Eehirler+aras%C4%B1+Otob%C3%BCs+Terminali/@37.7857598,29.0905146,19z/data=!4m6!3m5!1s0x14c73fb5238ca73b:0x159421cb8e9bdbd4!8m2!3d37.7854949!4d29.0909569!16s%2Fg%2F11cjkq6m6y?entry=ttu" target="_blank">This is the bus terminal</a> although I couldn't tell you the bus number!
 
