@@ -31,6 +31,7 @@ I hope you find it useful!
 - [Istanbul: things to see, eat and drink](istanbul1.md)
 - [Istanbul: working, sleeping, and getting around](istanbul2.md)
 - [Izmir](izmir.md)
+- [Historic sites](historicsites.md)
 
 ## UK
 
