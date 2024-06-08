@@ -22,6 +22,6 @@ Once at the top, the sprawling spa city of Hierapolis stretches off in all direc
 
 The city has amazing views across the landscape which can enjoy sat down in one of the theatres.
 
-To get there, we took a train from Izmir to Denizli, and then a local bus from there to Pamukkale. <a <a href="https://www.google.co.uk/maps/place/Denizli+%C5%9Eehirler+aras%C4%B1+Otob%C3%BCs+Terminali/@37.7857598,29.0905146,19z/data=!4m6!3m5!1s0x14c73fb5238ca73b:0x159421cb8e9bdbd4!8m2!3d37.7854949!4d29.0909569!16s%2Fg%2F11cjkq6m6y?entry=ttu" target="_blank">This is the bus terminal</a> although I couldn't tell you the bus number!
+To get there, we took a train from Izmir to Denizli, and then a local bus from there to Pamukkale. <a href="https://www.google.co.uk/maps/place/Denizli+%C5%9Eehirler+aras%C4%B1+Otob%C3%BCs+Terminali/@37.7857598,29.0905146,19z/data=!4m6!3m5!1s0x14c73fb5238ca73b:0x159421cb8e9bdbd4!8m2!3d37.7854949!4d29.0909569!16s%2Fg%2F11cjkq6m6y?entry=ttu" target="_blank">This is the bus terminal</a> although I couldn't tell you the bus number!
 
 Pamukkale has plenty of hotels to choose from. I stayed in the <a href="https://www.google.co.uk/maps/place/Venus+Suite+Hotel/@37.912068,29.118253,16z/data=!4m9!3m8!1s0x14c713cbd2af9f05:0x63b62652e2c82e1e!5m2!4m1!1i2!8m2!3d37.9119395!4d29.1188014!16s%2Fg%2F1tkjnpyl?entry=ttu" target="_blank">Venus Suite Hotel</a> which was clean and modern with a good breakfast.
