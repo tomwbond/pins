@@ -10,6 +10,10 @@ A friendly, comfortable, old-fashioned hostel with a nice communal area, a decen
 
 ## Things to see and do
 
+###  <a href="https://www.google.co.uk/maps/place/Agora+of+Smyrna/@38.4204861,27.131509,16z/data=!4m6!3m5!1s0x14bbd8ef90662c07:0x3b479c686cf547c7!8m2!3d38.418434!4d27.1389082!16s%2Fg%2F122l3dg1?entry=ttu" target="_blank">Agora of Smyrna</a>
+
+Right on the edge of the old town, the Agora is a great place to visit while you're in Izmir. Originally built by the Greeks, then reconstructed by the Romans, it would have been a cultural, spiritial, and political centre for the city. 
+
 ### <a href="https://www.google.co.uk/maps/place/Ataturk+Museum/@38.4374892,27.1409197,15.25z/data=!4m6!3m5!1s0x14bbd85a305be291:0xd98decf832d0f057!8m2!3d38.4355952!4d27.1405833!16s%2Fg%2F11bzrprtwz" target="_blank">Atatürk Museum</a>
 
 A fascinating little museum in a building with lots of history. Dedicated to Mustafa Kemal Atatürk, a leader regarded as the founding father of modern Turkey, this free museum is definitely worth a visit.
